@@ -1,0 +1,16 @@
+.banner{
+    background-color: #5CB85C;
+    /* padding: 6rem; */
+    color: white;
+    text-align: center;
+padding: 40px;
+}
+
+.conduit{
+    font-size: 56px;
+    font-weight: 700;
+}
+
+.conduit-desc{
+    font-size: 24px;
+}
